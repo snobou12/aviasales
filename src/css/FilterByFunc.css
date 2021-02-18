@@ -1,0 +1,11 @@
+.selectFilter {
+  background-color: #2196f3;
+  color: white;
+}
+
+.list-group-item {
+  padding: 5px 64px;
+  text-align: center;
+  font-size: 19px;
+  font-family: 'Open Sans';
+}

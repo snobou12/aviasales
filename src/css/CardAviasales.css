@@ -1,0 +1,23 @@
+.topTextCard {
+  font-size: 30px;
+  color: #2196f3;
+  font-weight: bold;
+}
+.imgLogoCard {
+  float: right;
+  height: 50px;
+}
+.text-boldCard {
+  font-weight: bold;
+}
+.text-greyCard {
+  color: #a0b0b9;
+}
+
+.cardAvia {
+  cursor: pointer;
+}
+
+.cardAvia:hover {
+  border: solid 3px #2196f3;
+}
